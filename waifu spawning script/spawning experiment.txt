@@ -1,0 +1,45 @@
+--Run 1
+[α] Kyouka Jirou spawned on attempt #18
+--Run 2
+No spawns
+--Run 3
+[γ] R. Dorothy Wayneright spawned on attempt #60
+--Run 4
+No spawns
+--Run 5
+[β] Yuuta Togashi spawned on attempt #50
+--Run 6
+No spawns
+--Run 7
+No spawns
+--Run 8
+[β] Touya Mochizuki spawned on attempt #55
+--Run 9
+No spawns
+--Run 10
+No spawns
+--Run 11
+[γ] Isuzu Sento spawned on attempt #17
+!Script paused at attempt #22
+--Run 12
+No spawns
+--Run 13
+[α] Sinbad spawned on attempt #49
+--Run 14
+No spawns
+--Run 15
+No spawns
+--Run 16
+[γ] Blue spawned on attempt #13
+!Script went awry on attempts #18-22, only two lines of attempts sent
+!Script was paused to claim and to re-focus on the textbox
+--Run 17
+[α] Yona spawned on attempt #47
+!5 min break in between run 17 and run 18
+--Run 18
+[α] Hotori Arashiyama spawned on attempt #21
+!5 min break in between run 18 and run 19
+--Run 19
+[α] Kanae Mitani spawned on attempt #4
+--Run 20
+No spawns
